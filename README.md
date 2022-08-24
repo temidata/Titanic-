@@ -6,4 +6,4 @@ As part of the requirement for obtaining my Mastering Data Analytics Certificate
 https://drive.google.com/file/d/1CWV0jWjuOvynmzeHIllbVhAodK3iEPCU/view?usp=sharing
 
 # Transformation
-I duplicated the original sheet named as Titanic_raw
+I duplicated the original sheet named as Titanic_raw. I noticed some formatting issues with the dataset: The name and Sex Column. There i created another table which contain which contained the names of the passengers. I nested the LEFT

@@ -1,4 +1,4 @@
-# The Titanic Ship 1912: An Excel Capstone Project For 10Alytics Certificate 
+# The Titanic Ship 1912: An Excel Capstone Project
 
 As part of the requirement for obtaining my Mastering Data Analytics Certificate with 10Alytics and here is the details of my analysis. A case study of the Titanic Ship. 
 
@@ -16,7 +16,11 @@ There after I used IF function to create the age ranges, having used Measure of 
 
 I transformed Q,S and C to Queenstown, Southampton and Cherbourg respectively using IF function.
 
-Then I created my Calculation on another spreedsheet using pivottable
+Next I created my Calculation on another spreedsheet using pivottable.
+
+Having created the all my calculations with pivot tables, Then I used the piviot tables to create a dynamic Dashboard.
+
+
 
 
 

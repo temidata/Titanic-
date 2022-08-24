@@ -21,7 +21,7 @@ Next I created my Calculation on another spreedsheet using pivottable.
 Having created the all my calculations with pivot tables, Then I used the piviot tables to create a dynamic Dashboard.
 
 
-# Findings And Observation
+# Findings 
 
 1).Going with this dataset there where 418 Passengers that boarded the ship at which 266 (64%) of the passengers died 152 (36%) of the passengers survived.
 
@@ -41,6 +41,10 @@ Having created the all my calculations with pivot tables, Then I used the piviot
 
 9). From my analysis, they were 50 females and 57 males who used the 1st class ticket, 30 females and 63 males who used the 2nd class ticket and finally, 72 females and 146 males used the 3rd class ticket.
 
+# Observation
+There were missing data in the age and fare column so i had to use the rule of Measure Of Central Tendency and use the mean of both column to fill the empty cells. 
 
+I also observed that the dataset maybe not be entirely true as it different from the titanic 1912 story as documented by more trusted sources like History.com and Guardian documentary where over 1500 people lost there lives and 2240 passengers where on the ship. 
 
+The data only shows data for the passengers no details about the cause of the disaster.
 
